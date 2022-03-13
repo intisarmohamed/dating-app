@@ -220,6 +220,6 @@ This project is licensed under the terms of the MIT license.
 
 please contact me through the links below:
 
-[GitHub](https://github.com/fudge88) Profile
+[GitHub](https://github.com/intisarmohamed) Profile
 
-Email: akhlaq.fahra@gmail.com
+Email: intisarm48@gmail.com
